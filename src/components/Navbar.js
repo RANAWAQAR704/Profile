@@ -139,13 +139,13 @@ function Navbar (){
                     spy
                     activeClass="active"
                     className="nav-link"
-                    to="resume"
+                    to="portfolio"
                     onClick={(e) => {
                       e.preventDefault();
                       setIsNavModalClose(true);
                     }}
                   >
-                    Resume
+                    Portfolio
                   </Link>
                 </li>
                 <li className="nav-item">
@@ -189,7 +189,7 @@ function Navbar (){
       <ul className="social-icons social-icons-light">
         <li className="social-icons-linkedin">
           <a
-            href="https://github.com/RANAWAQAR704"
+            href="https://www.linkedin.com/in/ranawaqar98"
             target="_blank"
             rel="noopener noreferrer"
             ><i className="fab fa-linkedin"></i
@@ -205,7 +205,7 @@ function Navbar (){
         </li>
         <li className="social-icons-github">
           <a
-            href="https://www.linkedin.com/in/ranawaqar98"
+            href="https://github.com/RANAWAQAR704"
             target="_blank"
             rel="noopener noreferrer"
             ><i className="fab fa-github"></i

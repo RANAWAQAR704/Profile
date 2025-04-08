@@ -11,7 +11,7 @@ export default function Contact() {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_hrqnukn', 'template_jqudpwd', form.current, '98a96DTNFB8NPemwy')
+    emailjs.sendForm('service_t16shfm', 'contact_form_template', form.current, 'x7Aum1OEwR3RHBHWO')
       .then((result) => {
           console.log(result.text);
       }, (error) => {
@@ -42,7 +42,7 @@ export default function Contact() {
       >
         <h2 className="mb-3 text-5 text-uppercase">Address</h2>
         <p className="text-3 mb-4">
-          Gulistan-e-Johar<br />Karachi<br />Karachi
+          Gulistan-e-Johar<br />Karachi<br />Pakistan
         </p>
         <h2 className="mb-3 text-5 text-uppercase">Follow Me</h2>
         <ul
