@@ -19,7 +19,7 @@ export default function Resume() {
             <div className="col-md-6">
               <h2 className="text-6 fw-600 mb-4 ">My Education</h2>
               <div className="bg-white  rounded p-4 mb-4 bg-white border">
-                <p className="badge bg-primary text-2 fw-400">2018 - In progress</p>
+                <p className="badge bg-primary text-2 fw-400">2020 - In progress</p>
                 <h3 className="text-5 ">Software Engineering</h3>
                 <p className="text-danger">Iqra University</p>
                 <p className="mb-0 ">
@@ -27,28 +27,28 @@ export default function Resume() {
                 </p>
               </div>
               <div className="bg-white  rounded p-4 mb-4 bg-white border">
-                <p className="badge bg-primary text-2 fw-400">2016 - 2018</p>
+                <p className="badge bg-primary text-2 fw-400">2017 - 2019</p>
                 <h3 className="text-5 ">Intermediate</h3>
-                <p className="text-danger">Govt: C&S Degree College</p>
+                <p className="text-danger">Govt: Comprehensive Degree College</p>
                 <p className="mb-0 ">
-                I done my Intermediate from C&S Degree College, where I completed my pre-engineering studies. I have developed a strong interest in pursuing a career in engineering, particularly in the field of software engineering.
+                I done my Intermediate from Comprehensive Degree College, where I completed my pre-engineering studies. I have developed a strong interest in pursuing a career in engineering, particularly in the field of software engineering.
                 </p>
               </div>
             </div>
             <div className="col-md-6">
               <h2 className="text-6 fw-600 mb-4 ">My Experience</h2>
               <div className="bg-white  rounded p-4 mb-4 bg-white border">
-                <p className="badge bg-primary text-2 fw-400">2021 - In Progress</p>
-                <h3 className="text-5 ">Web Developer</h3>
-                <p className="text-danger">Fiveer</p>
+                <p className="badge bg-primary text-2 fw-400">8-2023 - Current</p>
+                <h3 className="text-5 ">Full Stack junior Developer</h3>
+                <p className="text-danger">PublishEx pvt lmt</p>
                 <p className="mb-0 ">
-                I'm a web developer on Fiverr, specializing in creating visually appealing and highly functional websites tailored to your specific needs. Let's bring your digital vision to life!
+                I'm a junior full stack developer, specializing in creating visually appealing and highly functional websites tailored to your specific needs. Let's bring your digital vision to life!
                 </p>
               </div>
               <div className="bg-white  rounded p-4 mb-4 bg-white border">
-                <p className="badge bg-primary text-2 fw-400">2023 - 2023</p>
+                <p className="badge bg-primary text-2 fw-400">2-2023 - 8-2023</p>
                 <h3 className="text-5 ">Front-End Developer</h3>
-                <p className="text-danger">Diginers Software House</p>
+                <p className="text-danger">Techclone Pvt Lmt</p>
                 <p className="mb-0 ">
                 I recently completed an internship in front-end development at Diginers Software House in 2023. During my internship, I gained valuable hands-on experience in creating dynamic and user-friendly interfaces using the latest web technologies.
                 </p>
@@ -60,7 +60,7 @@ export default function Resume() {
           <div className="row gx-5">
             <div className="col-md-6">
               <p className=" fw-500 text-start mb-2 text-dark">
-                Web Design <span className="float-end">65%</span>
+                Api Design and Development <span className="float-end">65%</span>
               </p>
               <div className="progress progress-sm mb-4 ">
                 <div
@@ -75,7 +75,7 @@ export default function Resume() {
             </div>
             <div className="col-md-6">
               <p className=" fw-500 text-start mb-2 text-dark">
-                HTML/CSS <span className="float-end">85%</span>
+                HTML/CSS <span className="float-end">80%</span>
               </p>
               <div className="progress progress-sm mb-4 ">
                 <div
@@ -90,7 +90,7 @@ export default function Resume() {
             </div>
             <div className="col-md-6">
               <p className=" fw-500 text-start mb-2 text-dark">
-                JavaScript <span className="float-end">75%</span>
+                JavaScript <span className="float-end">70%</span>
               </p>
               <div className="progress progress-sm mb-4 ">
                 <div
@@ -105,7 +105,7 @@ export default function Resume() {
             </div>
             <div className="col-md-6">
               <p className=" fw-500 text-start mb-2 text-dark">
-                React JS <span className="float-end">70%</span>
+                React JS <span className="float-end">50%</span>
               </p>
               <div className="progress progress-sm mb-4 ">
                 <div
@@ -120,7 +120,7 @@ export default function Resume() {
             </div>
             <div className="col-md-6">
               <p className=" fw-500 text-start mb-2 text-dark">
-                Tailwind CSS <span className="float-end">60%</span>
+                Java  <span className="float-end">70%</span>
               </p>
               <div className="progress progress-sm mb-4 ">
                 <div
@@ -135,7 +135,7 @@ export default function Resume() {
             </div>
             <div className="col-md-6">
               <p className=" fw-500 text-start mb-2 text-dark">
-                Bootstrap <span className="float-end">70%</span>
+                Spring Boot framework <span className="float-end">70%</span>
               </p>
               <div className="progress progress-sm mb-4 ">
                 <div

@@ -61,7 +61,7 @@ export default function About() {
               <div className="col-6 col-md-3">
                 <div className="featured-box text-center">
                   <h4 className="text-12  mb-0 text-muted">
-                    <span>2</span>+
+                    <span>1</span>+
                   </h4>
                   <p className="mb-0 ">Years Experiance</p>
                 </div>
@@ -69,7 +69,7 @@ export default function About() {
               <div className="col-6 col-md-3">
                 <div className="featured-box text-center">
                   <h4 className="text-12  mb-0 text-muted">
-                    <span>15</span>+
+                    <span>5</span>+
                   </h4>
                   <p className="mb-0 ">Happy Clients</p>
                 </div>
@@ -77,7 +77,7 @@ export default function About() {
               <div className="col-6 col-md-3">
                 <div className="featured-box text-center">
                   <h4 className="text-12  mb-0 text-muted">
-                    <span>10</span>+
+                    <span>5</span>+
                   </h4>
                   <p className="mb-0 ">Projects Done</p>
                 </div>
@@ -85,7 +85,7 @@ export default function About() {
               <div className="col-6 col-md-3">
                 <div className="featured-box text-center">
                   <h4 className="text-12  mb-0 text-muted">
-                    <span>6</span>
+                    <span>2</span>
                   </h4>
                   <p className="mb-0 ">Get Awards</p>
                 </div>

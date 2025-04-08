@@ -43,7 +43,7 @@ function Navbar (){
               style={{ cursor: "pointer" }}
               className="logo"
               to="home"
-              title="jawad"
+              title="waqar"
               onClick={(e) => {
                 e.preventDefault();
                 setIsNavModalClose(true);
