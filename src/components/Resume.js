@@ -16,46 +16,72 @@ export default function Resume() {
             </p>
           </div>
           <div className="row gx-5">
-            <div className="col-md-6">
-              <h2 className="text-6 fw-600 mb-4 ">My Education</h2>
-              <div className="bg-white  rounded p-4 mb-4 bg-white border">
-                <p className="badge bg-primary text-2 fw-400">2020 - 2024</p>
-                <h3 className="text-5 ">Software Engineering</h3>
-                <p className="text-danger">Iqra University</p>
-                <p className="mb-0 ">
-                I am currently pursuing a degree in Software Engineering at IQRA University. I am passionate about the world of technology and eager to learn and apply my knowledge in the field.
-                </p>
-              </div>
-              <div className="bg-white  rounded p-4 mb-4 bg-white border">
-                <p className="badge bg-primary text-2 fw-400">2017 - 2019</p>
-                <h3 className="text-5 ">Intermediate</h3>
-                <p className="text-danger">Govt: Comprehensive Degree College</p>
-                <p className="mb-0 ">
-                I done my Intermediate from Comprehensive Degree College, where I completed my pre-engineering studies. I have developed a strong interest in pursuing a career in engineering, particularly in the field of software engineering.
-                </p>
-              </div>
-            </div>
-            <div className="col-md-6">
-              <h2 className="text-6 fw-600 mb-4 ">My Experience</h2>
-              <div className="bg-white  rounded p-4 mb-4 bg-white border">
-                <p className="badge bg-primary text-2 fw-400">Oct 2023 - Current</p>
-                <h3 className="text-5 ">Full Stack Java Developer</h3>
-                <p className="text-danger">PublishEx Solutions PVT LTD</p>
-                <p className="mb-0 ">
-                I'm a java full stack developer, specializing in creating visually appealing and highly functional websites tailored to your specific needs. Let's bring your digital vision to life!
-                </p>
-              </div>
-              <div className="bg-white  rounded p-4 mb-4 bg-white border">
-                <p className="badge bg-primary text-2 fw-400">May 2023 - Sep 2023</p>
-                <h3 className="text-5 ">Front-End Developer</h3>
-                <p className="text-danger">Techclone PVT LTD</p>
-                <p className="mb-0 ">
-                I recently completed an internship in front-end development at Diginers Software House in 2023. During my internship, I gained valuable hands-on experience in creating dynamic and user-friendly interfaces using the latest web technologies.
-                </p>
-              </div>
-              
-            </div>
-          </div>
+  <div className="col-md-6">
+    <h2 className="text-6 fw-600 mb-4">My Education</h2>
+    
+    <div className="bg-white rounded p-4 mb-4 border">
+      <p className="badge bg-primary text-2 fw-400">2020 - 2024</p>
+      <h3 className="text-5">Bachelor of Science in Software Engineering</h3>
+      <p className="text-danger">Iqra University</p>
+      <p className="mb-0">
+        I graduated with a degree in Software Engineering from Iqra University. My academic journey fueled my passion for building scalable software solutions and laid a strong foundation in Java development and full-stack engineering.
+      </p>
+    </div>
+
+    <div className="bg-white rounded p-4 mb-4 border">
+      <p className="badge bg-primary text-2 fw-400">2017 - 2019</p>
+      <h3 className="text-5">Intermediate (Pre-Engineering)</h3>
+      <p className="text-danger">Govt. Comprehensive Degree College</p>
+      <p className="mb-0">
+        I completed my intermediate education in Pre-Engineering, which sparked my interest in problem-solving and led me toward pursuing a career in software engineering.
+      </p>
+    </div>
+
+    <div className="bg-white rounded p-4 mb-4 border">
+      <p className="badge bg-primary text-2 fw-400">2017 - 2019</p>
+      <h3 className="text-5">Matric (Computer Science)</h3>
+      <p className="text-danger">White House Grammar School</p>
+      <p className="mb-0">
+        I completed my matric education in computer science, which sparked my interest in problem-solving and led me toward pursuing a career in software engineering.
+      </p>
+    </div>
+  </div>
+
+  <div className="col-md-6">
+    <h2 className="text-6 fw-600 mb-4">My Experience</h2>
+
+    <div className="bg-white rounded p-4 mb-4 border">
+      <p className="badge bg-primary text-2 fw-400">Oct 2023 – Present</p>
+      <h3 className="text-5">Junior Software Engineer (Java Full Stack)</h3>
+      <p className="text-danger">PublishEx Solutions Pvt Ltd</p>
+      <p className="mb-0">
+        Currently working as a Full Stack Java Developer where I develop and maintain microservice-based applications using Spring Boot, Hibernate, MySQL, Kafka, and Redis. I’m also responsible for integrating REST/SOAP APIs, optimizing performance, and ensuring secure, scalable solutions.
+      </p>
+    </div>
+
+    <div className="bg-white rounded p-4 mb-4 border">
+      <p className="badge bg-primary text-2 fw-400">May 2023 – Sep 2023</p>
+      <h3 className="text-5">Front-End Developer Intern</h3>
+      <p className="text-danger">Techclone Pvt Ltd</p>
+      <p className="mb-0">
+        Completed a front-end development internship where I worked on building responsive user interfaces using HTML, CSS, JavaScript, React, and Angular. This experience helped me strengthen my UI/UX design skills and work in agile, collaborative environments.
+      </p>
+    </div>
+
+    <div className="bg-white rounded p-4 mb-4 border">
+      <p className="badge bg-primary text-2 fw-400">Jan 2023 – Apr 2023</p>
+      <h3 className="text-5">Database Developer Intern</h3>
+      <p className="text-danger">Lucky Textile Mills</p>
+      <p className="mb-0">
+        As a Database Developer Intern, I was responsible for writing, optimizing, and managing SQL queries and stored procedures. I supported backend operations by working with relational databases, improving data accuracy, and contributing to performance tuning and reporting tasks for internal systems.
+      </p>
+    </div>
+
+
+
+  </div>
+</div>
+
           {/* <h2 className="text-6 fw-600 mt-4 mb-4 ">My Skills</h2>
           <div className="row gx-5">
             <div className="col-md-6">

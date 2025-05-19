@@ -22,8 +22,9 @@ export default function About() {
                 Engineer
               </h2>
               <p className="" style={{textAlign:"justify"}}>
-              I'm a skilled full stack Developer with 1+ years of experience in creating user-friendly websites specializing in cutting-edge technology to build innovative solutions that meet the needs of today's digital world. I stay updated with the latest frameworks like React and Next.js. I have a keen eye for detail, focus on usability and performance optimization. I enjoy collaborating with cross-functional teams and have strong communication skills. I'm passionate about staying up-to-date with emerging trends and technologies in App development.
-              </p>
+              I'm a Full Stack Developer with over 3+ year of experience, including professional work in the fintech industry. I specialize in building user-friendly, high-performance web applications using modern technologies like React and Angular on the frontend, and Java (Spring Boot) on the backend.
+              I have hands-on experience working with SQL and NoSQL databases, RESTful APIs, and microservice architectures, as well as event-driven systems using tools like Kafka. I’m also familiar with cloud platforms like AWS, enabling me to deliver scalable and production-ready solutions.
+              With a strong eye for detail, I focus on usability, performance optimization, and writing clean, maintainable code. I enjoy working in cross-functional teams, and I bring excellent communication skills and a passion for learning to every project. Staying current with emerging trends and technologies in app development is something I genuinely enjoy. </p>
               <p className="">
                 Delivering work within time and budget which meets client’s
                 requirements is my moto.
@@ -61,7 +62,7 @@ export default function About() {
               <div className="col-6 col-md-3">
                 <div className="featured-box text-center">
                   <h4 className="text-12  mb-0 text-muted">
-                    <span>1</span>+
+                    <span>3</span>+
                   </h4>
                   <p className="mb-0 ">Years Experiance</p>
                 </div>
